@@ -1,2 +1,2 @@
-# MelusHideUI
-Addon temporal para eliminar la foto del jugador y del target del frame en retail
+# MelusMove
+Este addon solo mueve la barra de bolsas y los microbotones, los mueve juntos porque blizzard los tiene en un mismo frame.

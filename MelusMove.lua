@@ -1,5 +1,3 @@
-
-local MelusHideUI = CreateFrame("Frame", "MelusHideUI")
 MicroButtonAndBagsBar:RegisterForDrag("LeftButton")
 MicroButtonAndBagsBar:SetScript("OnDragStart", MicroButtonAndBagsBar.StartMoving)
 MicroButtonAndBagsBar:SetScript("OnDragStop", MicroButtonAndBagsBar.StopMovingOrSizing)
